@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+target/
+.gradle/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+desktop.ini
+bin/
+.git-backup/
