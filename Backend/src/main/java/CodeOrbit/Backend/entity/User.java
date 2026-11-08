@@ -1,4 +1,4 @@
-package devPilot.backend.entity;
+package CodeOrbit.Backend.entity;
 
 import java.time.Instant;
 import java.util.UUID;
